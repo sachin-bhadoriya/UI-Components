@@ -100,4 +100,4 @@ npm install
 3. Run the project
 npm run dev
 
-▶️ or preview live - https://ui-components.vercel.app
+▶️ or preview live - https://ui-components-roan-eta.vercel.app/
